@@ -1,0 +1,25 @@
+h2 a{
+    color: red;
+}
+i{
+    text-decoration: underline;
+    color: green;
+}
+table{
+    border-collapse: collapse;
+}
+
+table th,td{
+    font-size: 25px;
+    padding-right: 40px;
+    
+}
+tr:nth-child(even)
+{
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+    
+    
+}
+
